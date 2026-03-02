@@ -10,4 +10,4 @@ def get_products():
 
 @api.route('/test', methods=['GET'])
 def test():
-    return "Test route is working!"
+    return "Test route is working"
