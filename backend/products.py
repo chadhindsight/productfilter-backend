@@ -2,7 +2,7 @@ products = [
   {
     "name": "Sony Playstation 5",
     "url": "static/images/playstation_5.png",
-    "category": "games",
+    "category": "video games",
     "price": 499.99,
     "id": 21
   },
@@ -37,14 +37,14 @@ products = [
   {
     "name": "Nintendo Switch",
     "url": "static/images/nintendo_switch.png",
-    "category": "games",
+    "category": "video games",
     "price": 299.99,
     "id": 351
   },
   {
     "name": "Xbox Series X",
     "url": "static/images/xbox_series_x.png",
-    "category": "games",
+    "category": "video games",
     "price": 499.99,
     "id": 25
   },
